@@ -1,51 +1,51 @@
 [
   {
     "path": "/",
-    "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/layouts",
+    "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/layouts",
     "children": [
       {
         "path": "",
         "name": "home",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/home",
-        "_name": "_0479502a"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/home",
+        "_name": "_c381fa50"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/login",
-        "_name": "_8a402446"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/login",
+        "_name": "_29d9a090"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/login",
-        "_name": "_8a402446"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/login",
+        "_name": "_29d9a090"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/profile",
-        "_name": "_5bc2bb1d"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/profile",
+        "_name": "_19cae5e0"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/settings",
-        "_name": "_a4568da2"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/settings",
+        "_name": "_0177259c"
       },
       {
         "path": "/editor",
         "name": "editor",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/editor",
-        "_name": "_d6dc1d0e"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/editor",
+        "_name": "_04ce9526"
       },
       {
         "path": "article/:slug",
         "name": "article",
-        "component": "/Users/lagouHomework/fed-e-task-liuhuijun/fed-e-task-03-03/code/realworld-nuxtjs/pages/article",
-        "_name": "_428cfe6a"
+        "component": "/Users/liuhuijun/Desktop/未命名文件夹/realworld-nuxtjs/pages/article",
+        "_name": "_4c365f46"
       }
     ],
-    "_name": "_6bb89bfd"
+    "_name": "_03106df0"
   }
 ]
